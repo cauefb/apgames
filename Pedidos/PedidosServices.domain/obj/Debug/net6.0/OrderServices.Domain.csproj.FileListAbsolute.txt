@@ -1,0 +1,12 @@
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\OrderServices.Domain.csproj.AssemblyReference.cache
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\OrderServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\OrderServices.Domain.AssemblyInfoInputs.cache
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\OrderServices.Domain.AssemblyInfo.cs
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\OrderServices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\bin\Debug\net6.0\OrderServices.Domain.deps.json
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\bin\Debug\net6.0\OrderServices.Domain.dll
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\bin\Debug\net6.0\OrderServices.Domain.pdb
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\OrderServices.Domain.dll
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\refint\OrderServices.Domain.dll
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\OrderServices.Domain.pdb
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\PedidosServices.domain\obj\Debug\net6.0\ref\OrderServices.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\bin\Debug\net6.0\OrderServices.Infra.Data.deps.json
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\bin\Debug\net6.0\OrderServices.Infra.Data.runtimeconfig.json
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\bin\Debug\net6.0\OrderServices.Infra.Data.dll
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\bin\Debug\net6.0\OrderServices.Infra.Data.pdb
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\bin\Debug\net6.0\OrderServices.Domain.dll
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\bin\Debug\net6.0\OrderServices.Domain.pdb
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.AssemblyInfo.cs
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.csproj.CopyComplete
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.dll
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\refint\OrderServices.Infra.Data.dll
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.pdb
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\OrderServices.Infra.Data.genruntimeconfig.cache
+C:\Users\caue.ferreira\Documents\humano-tech\apgames\Pedidos.Services.Infra.Data\obj\Debug\net6.0\ref\OrderServices.Infra.Data.dll
