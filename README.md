@@ -1,4 +1,4 @@
-# Projeto final treinamento Humano Tech
+# Projeto final Bootcamp AP
 
 Este projeto tem por finalidade demonstrar os conhecimentos adquiridos durante o treinamento.
 
