@@ -7,7 +7,7 @@ Este projeto tem por finalidade demonstrar os conhecimentos adquiridos durante o
 
 - .NET
 - nestjs
-- bancos SQL Server, Postgres e mongodb
+- banco de dados SQL Server, Postgres e mongodb
 - Swagger
 - React
 
