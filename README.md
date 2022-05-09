@@ -13,6 +13,6 @@ Este projeto tem por finalidade demonstrar os conhecimentos adquiridos durante o
 
 ## Funcionalidades
 
-- Listagem de itens na homepage diponibilados pela API de produtos
+- Listagem de itens na homepage diponibilizados pela API de produtos
 - Adição e subtração de itens no carrinho de compras
-- Página de cadastro e login
+- Página de cadastro e login de cliente
